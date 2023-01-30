@@ -34,18 +34,21 @@ Figma
 CODE:
 
 /* Home Page */
+
    position: relative;
    width: 360px;
    height: 640px;
    background: #FF0B0B;
 
 /* Login Page */
+
      position: relative;
      width: 360px;
      height: 640px;
      background: #FAFF0C;
 
 /* Saveetha Engineering College */
+
      position: absolute;
      width: 341px;
      height: 39px;
@@ -61,6 +64,7 @@ CODE:
 
 
 /* DEPARTMENTS */
+
      position: absolute;
      width: 341px;
      height: 39px;
@@ -76,6 +80,7 @@ CODE:
 
 
 /* AI-ML */
+
     position: absolute;
     width: 341px;
     height: 39px;
@@ -91,6 +96,7 @@ CODE:
 
 
 /* AI-DS */
+
     position: absolute;
     width: 341px;
     height: 39px;
@@ -106,6 +112,7 @@ CODE:
 
 
 /* IOT */
+
     position: absolute;
     width: 341px;
     height: 39px;
@@ -121,6 +128,7 @@ CODE:
 
 
 /* CC */
+
    position: absolute;
    width: 341px;
    height: 39px;
@@ -136,6 +144,7 @@ CODE:
 
 
 /* Line 3 */
+
   position: absolute;
   width: 360px;
   height: 0px;
@@ -144,6 +153,7 @@ CODE:
   border: 4px solid #210EFD;
 
 /* seclogo 3 */
+
   position: absolute;
   width: 97.54px;
   height: 96px;
