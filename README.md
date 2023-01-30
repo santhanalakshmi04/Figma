@@ -71,12 +71,12 @@ CODE:
      left: 19px;
      top: 234px;
      font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 24px;
-    text-align: center;
-    color: #0C0B0B;
+     font-style: normal;
+     font-weight: 400;
+     font-size: 20px;
+     line-height: 24px;
+     text-align: center;
+     color: #0C0B0B;
 
 
 /* AI-ML */
@@ -87,12 +87,12 @@ CODE:
     left: 9px;
     top: 273px;
     font-family: 'Inter';
-   font-style: normal;
-   font-weight: 400;
-   font-size: 20px;
-   line-height: 24px;
-   text-align: center;
-   color: #0C0B0B;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #0C0B0B;
 
 
 /* AI-DS */
@@ -129,37 +129,37 @@ CODE:
 
 /* CC */
 
-   position: absolute;
-   width: 341px;
-   height: 39px;
-  left: 9px;
-  top: 444px;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 20px;
-  line-height: 24px;
-  text-align: center;
-  color: #0C0B0B;
+    position: absolute;
+    width: 341px;
+    height: 39px;
+    left: 9px;
+    top: 444px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #0C0B0B;
 
 
 /* Line 3 */
 
-  position: absolute;
-  width: 360px;
-  height: 0px;
-  left: 0px;
-  top: 80px;
-  border: 4px solid #210EFD;
+    position: absolute;
+    width: 360px;
+    height: 0px;
+    left: 0px;
+    top: 80px;
+    border: 4px solid #210EFD;
 
 /* seclogo 3 */
 
-  position: absolute;
-  width: 97.54px;
-  height: 96px;
-  left: 131px;
-  top: 115px;
-  background: url(seclogo.png);
+    position: absolute;
+    width: 97.54px;
+    height: 96px;
+    left: 131px;
+    top: 115px;
+    background: url(seclogo.png);
 
 OUTPUT:
 
